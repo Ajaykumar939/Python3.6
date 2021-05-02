@@ -1,0 +1,10 @@
+1)Syntax Difference:
+--------------list - []
+--------------tuple - ()
+
+2)Mutable(changed) & Immutable(unchanged):
+---------------list(mutable)
+----------------tuple(immutable)
+
+3)Homogeneous & Heterogeneous
+
