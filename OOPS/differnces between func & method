@@ -1,0 +1,14 @@
+METHOD:
+
+Inside class.
+1st parameter is self.
+calling a method using dot(.) notation
+class dependency
+
+
+FUNCTION:
+
+Outside class.
+no need to pass self
+call method by method name
+no class dependency
